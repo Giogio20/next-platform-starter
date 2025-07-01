@@ -1,4 +1,8 @@
-# Next.js on Netlify Platform Starter
+#Next.js en Netlify Platform Starter
+
+[Demostración en vivo](https://nextjs-platform-starter.netlify.app/)
+
+Un starter moderno basado en Next.js 14 (App Router), Tailwind y [Netlify Core Primitives](https://docs. Next.js on Netlify Platform Starter
 
 [Live Demo](https://nextjs-platform-starter.netlify.app/)
 
@@ -39,3 +43,8 @@ netlify dev
 ```
 
 If your browser doesn't navigate to the site automatically, visit [localhost:8888](http://localhost:8888).
+Next.js en Netlify Platform Starter
+
+[Demostración en vivo](https://nextjs-platform-starter.netlify.app/)
+
+Un starter moderno basado en Next.js 14 (App Router), Tailwind y [Netlify Core Primitives](https://docs.
